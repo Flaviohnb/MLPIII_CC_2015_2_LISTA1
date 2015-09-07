@@ -5,7 +5,7 @@ public class Principal {
 	public static void main(String[] args) {
 		Data d = new Data();
 		d.SetDia(20);
-		d.SetMes(10);
+		d.SetMes(32);
 		d.SetAno(2015);
 		
 		System.out.println(d);
